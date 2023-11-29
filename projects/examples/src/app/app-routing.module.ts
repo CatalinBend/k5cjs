@@ -26,6 +26,10 @@ const routes: Routes = [
     path: 'form-field',
     loadChildren: () => import('./views/form-field'),
   },
+  {
+    path: 'grid',
+    loadChildren: () => import('./views/grid'),
+  },
 ];
 
 @NgModule({

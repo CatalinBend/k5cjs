@@ -33,6 +33,7 @@
       "@k5cjs/form-error": ["dist/form-error"],
       "@k5cjs/store": ["dist/store"],
       "@k5cjs/types": ["dist/types"],
+      "@k5cjs/grid": ["dist/grid"]
     },
     "target": "ES2022",
     "module": "es2020",
